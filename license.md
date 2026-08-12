@@ -27,7 +27,8 @@
 </div>
 
 <div align="center">
-<img width="1280" height="640" alt="213f1853-d0c6-4309-bdbc-babeaf153464" src="https://github.com/user-attachments/assets/9b306f47-b6d0-4e62-9d21-951650f4b02e" />
+<img width="1440" height="720" alt="Gemini_Generated_Image_9z6bwk9z6bwk9z6b" src="https://github.com/user-attachments/assets/d8e5aeed-367f-4701-80d2-3bedcfedca30" />
+
 
 </div>
 
